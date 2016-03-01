@@ -12,11 +12,7 @@ app.mapStyles = (function(){
                                 'line-opacity: 0.5;' +
                               '}',
   // red highlight                            
-  red : '#bushwick_pluto14v1 {' +
-                                'polygon-fill: hsl(0,100%,30%);' +
-                                'polygon-opacity: 0.75;' +
-                                'line-width: 0.2;' +
-                                'line-opacity: 0.5;' +
+  red : '#bushwick_pluto14v1 {' 
                               '}',
 
   // category style based on zoning
