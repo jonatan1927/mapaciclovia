@@ -15,7 +15,6 @@ app.mapStyles = (function(){
   red : '#bushwick_pluto14v1 {' +
                                 'polygon-fill: hsl(0,100%,30%);' +
                                 'polygon-opacity: 0.75;' +
-                                'line-color: #000;' +
                                 'line-width: 0.2;' +
                                 'line-opacity: 0.5;' +
                               '}',
